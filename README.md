@@ -1,1 +1,2 @@
-# combinationOne-master
+# combinationOne
+ejercicio programación
